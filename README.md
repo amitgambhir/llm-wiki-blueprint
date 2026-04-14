@@ -134,7 +134,7 @@ The filed synthesis becomes first-class wiki content — future queries can cite
 
 ```bash
 git clone https://github.com/amitgambhir/llm-wiki-blueprint
-cd sa-llm-wiki
+cd llm-wiki-blueprint
 ```
 
 Open the folder as an Obsidian vault, then start Claude Code in the same directory.
