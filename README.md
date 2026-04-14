@@ -133,7 +133,7 @@ The filed synthesis becomes first-class wiki content — future queries can cite
 ### Clone and open
 
 ```bash
-git clone https://github.com/amitgambhir/sa-llm-wiki
+git clone https://github.com/amitgambhir/llm-wiki-blueprint
 cd sa-llm-wiki
 ```
 
