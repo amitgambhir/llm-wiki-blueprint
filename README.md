@@ -9,6 +9,8 @@
 [![Obsidian](https://img.shields.io/badge/vault-Obsidian-purple.svg)](https://obsidian.md)
 [![Markdown](https://img.shields.io/badge/format-Markdown-lightgrey.svg)](https://daringfireball.net/projects/markdown/)
 
+![From Lost Decisions to a Living Knowledge Wiki](assets/llm-wiki-overview.png)
+
 </div>
 
 ---
